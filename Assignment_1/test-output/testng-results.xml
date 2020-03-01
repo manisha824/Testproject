@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="95994" started-at="2020-03-01T08:10:49Z" finished-at="2020-03-01T08:12:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="95994" started-at="2020-03-01T08:10:49Z" finished-at="2020-03-01T08:12:25Z">
+      <class name="testng_package.PriceCompare">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:testng_package.PriceCompare@548a9f61]" name="beforeTest" is-config="true" duration-ms="16" started-at="2020-03-01T08:10:49Z" finished-at="2020-03-01T08:10:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="f()[pri:0, instance:testng_package.PriceCompare@548a9f61]" name="f" duration-ms="95945" started-at="2020-03-01T08:10:49Z" finished-at="2020-03-01T08:12:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- testng_package.PriceCompare -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
